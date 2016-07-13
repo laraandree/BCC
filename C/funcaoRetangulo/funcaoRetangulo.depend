@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1466606992 source:f:\funcaoretangulo\main.c
+	<stdio.h>
+	<stdlib.h>
+
