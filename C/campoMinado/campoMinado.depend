@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1472564899 source:c:\temp\campominado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1476366619 source:c:\temp\campo minado(andre mateus - caio capote )\campominado\main.c
+	"campo_minado.h"
+
+1476367260 c:\temp\campo minado(andre mateus - caio capote )\campominado\campo_minado.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1476367204 source:c:\temp\campo minado(andre mateus - caio capote )\campominado\campo_minado.c
+	"campo_minado.h"
+
